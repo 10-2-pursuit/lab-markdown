@@ -46,6 +46,6 @@ Unlike other procyonids, such as the crab-eating raccoon (Procyon cancrivorus), 
 
 <!-- Use one set of backticks to highlight the word raccoon as a keyword -->
 
-The raccoon is a worthwhile animal to study and write about.
+The `raccoon` is a worthwhile animal to study and write about.
 
 <!-- Use three sets of backticks and set the type of codeblock to js so that you can highlight a codeblock that shows a console.log() with a string about raccoons. -->
