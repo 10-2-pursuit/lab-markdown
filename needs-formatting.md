@@ -1,6 +1,6 @@
 <!-- Change to an H1 -->
 
-#All about Raccoons
+# All about Raccoons
 
 <!-- The text below is ASCII art of a raccoon. Wrap it in a code block. -->
 
@@ -21,7 +21,7 @@ __The raccoon, sometimes called the common raccoon to distinguish it from other 
 
 <!-- Change to an H2 -->
 
-Taxonomy
+## Taxonomy
 
 <!-- Italicize all of the latin words (e.g. Ursus) -->
 
