@@ -54,5 +54,4 @@ The `raccoon` is a worthwhile animal to study and write about.
 ```js
  
     console.log("Raccoons are fascinating creatures!")
-    ```
       
